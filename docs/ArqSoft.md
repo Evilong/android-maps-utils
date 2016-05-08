@@ -1,0 +1,3 @@
+Introduction
+The "Google Maps Android API utility library" is a library that enables the Android developers to extend the functionalities of "Google Maps Android API". As an extension it means that it offers the original with some new features.
+This library is a open-source project, distributed with Apache 2.0 license, and is being developed by Google along side with GitHub community bringing the number of contributors up to 30.
