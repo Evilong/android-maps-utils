@@ -2,7 +2,7 @@
 
 ##Table of Contents
  1. [Introduction](#introduction)
- 2. [4+1 View](#4+1-view)
+ 2. [4+1 View](#41-view)
 	1. [Logical View](#logical-view)
 	2. [Process View](#process-view)
 	3. [Physical View](#physical-view)
