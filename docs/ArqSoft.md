@@ -17,9 +17,11 @@ This library is a open-source project, distributed with [Apache 2.0 license](htt
 
 ##System Requirements
 This library is a specialized tool for Android development and as such it requires:
+
 	1. [Android SDK](http://developer.android.com/sdk/)
 	2. [Google Play Services] (https://developers.google.com/android/guides/overview)
 It is also recomended to utilize the following tools for project managment:
+
 	1. [Android Studio + Graddle](http://developer.android.com/sdk/)
 	2. [Maven] (https://maven.apache.org/)
 	3. [Eclipse] (https://eclipse.org/) + [ADT] (http://developer.android.com/tools/sdk/eclipse-adt.html)
