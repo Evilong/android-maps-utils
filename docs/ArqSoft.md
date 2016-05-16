@@ -17,15 +17,15 @@ This library is a open-source project, distributed with [Apache 2.0 license](htt
 
 ##System Requirements
 This library is a specialized tool for Android development and as such it requires:
-
- 1. [Android SDK](http://developer.android.com/sdk/) 
- 2. [Google Play Services](https://developers.google.com/android/guides/overview)
+ 1. [JDK](http://www.oracle.com/technetwork/java/) TODO: Add description
+ 2. [Android SDK](http://developer.android.com/sdk/) TODO: Add description
+ 3. [Google Play Services](https://developers.google.com/android/guides/overview) is a API for the deverse Google-powered features such as Google Maps and Google +.
 
 It is also recomended to utilize the following tools for project managment:
 
-1. [Android Studio + Graddle](http://developer.android.com/sdk/)
-2. [Maven](https://maven.apache.org/)
-3. [Eclipse](https://eclipse.org/) + [ADT](http://developer.android.com/tools/sdk/eclipse-adt.html)
+1. [Android Studio + Graddle](http://developer.android.com/sdk/) is the official IDE for Android app development.
+2. [Maven](https://maven.apache.org/) is a software project management and comprehension tool.
+3. [Eclipse](https://eclipse.org/) + [ADT](http://developer.android.com/tools/sdk/eclipse-adt.html) , Eclipse is a powerfull and well known Java IDE and ADT is a pluggin to extend it's abilites to work with Android Projects
 
 
 ##4+1 View
