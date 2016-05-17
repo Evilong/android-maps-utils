@@ -4,8 +4,8 @@
  1. [Overview](#overview)
  2. [System Requirements](#system-requirements)
  3. [Functional Requirements](#functional-requirements)
- 4. [Non-Functional Requirements](#nonfunctional-requirements)
- 5. [Installation](#installation)
+ 4. [Non-Functional Requirements](#non-functional-requirements)
+ 5. [Starting up and running the project on Android Studio](#starting-up-and-running-the-project-on-android-studio)
  6. [4+1 View](#41-view)
 	1. [Logical View](#logical-view)
 	2. [Process View](#process-view)
@@ -34,12 +34,12 @@ It is also recomended to utilize the following tools for project managment:
 
 ##Non-Functional Requirements
 
-##Installation
+##Starting up and running the project on Android Studio
 
  - Download the latest [Android Studio](http://developer.android.com/sdk/index.html) version
  - Clone the [source](https://github.com/googlemaps/android-maps-utils) with git:
 
-> $ git clone https://github.com/googlemaps/andoird-maps-utils
+> $ git clone https://github.com/googlemaps/android-maps-utils.git
 
  - Import the project on Android Studio
 
