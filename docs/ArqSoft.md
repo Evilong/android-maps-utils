@@ -41,9 +41,9 @@ It is also recomended to utilize the following tools for project managment:
 
 > $ git clone https://github.com/googlemaps/android-maps-utils.git
 
- - Import the project on Android Studio
+ - Import the project on Android Studio [Image](./images/import.png)
  - Let the IDE run the Gradle scripts
- - Now the project is ready to start developing
+ - Now the project is ready to start developing - [Image](./images/ready.png)
  - You can also run the demo app - [Image](./images/demo.png)
  
 ##4+1 View
