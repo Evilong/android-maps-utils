@@ -44,7 +44,7 @@ It is also recomended to utilize the following tools for project managment:
  - Import the project on Android Studio
  - Let the IDE run the Gradle scripts
  - Now the project is ready to start developing
- - You can also run the demo app
+ - You can also run the demo app - [Image](./images/demo.png)
  
 ##4+1 View
 
