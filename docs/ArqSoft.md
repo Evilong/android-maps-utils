@@ -42,7 +42,10 @@ It is also recomended to utilize the following tools for project managment:
 > $ git clone https://github.com/googlemaps/android-maps-utils.git
 
  - Import the project on Android Studio
-
+ - Let the IDE run the Gradle scripts
+ - Now the project is ready to start developing
+ - You can also run the demo app
+ 
 ##4+1 View
 
 ####Logical view
