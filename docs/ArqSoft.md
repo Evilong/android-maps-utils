@@ -22,7 +22,7 @@ This library is a open-source project, distributed with [Apache 2.0 license](htt
 This library is a specialized tool for Android development and as such it requires:
  1. [JDK](http://www.oracle.com/technetwork/java/) TODO: Add description
  2. [Android SDK](http://developer.android.com/sdk/) TODO: Add description
- 3. [Google Play Services](https://developers.google.com/android/guides/overview) is a API for the deverse Google-powered features such as Google Maps and Google +.
+ 3. [Google Play Services](https://developers.google.com/android/guides/overview) is a API for the deverse Google-powered features such as Google Maps and Google+.
 
 It is also recomended to utilize the following tools for project managment:
 
@@ -53,4 +53,5 @@ It is also recomended to utilize the following tools for project managment:
 ####Physical view
 ####Development view
 ####Scenarios
-
+The use cases for this project are few, not because it's a piece of software with little to none features but because it's and extremely focused project that is aimed for Android Developer that want to improve their applications.
+Becase of this, in the following diagram only represent the view of a developer !!!
