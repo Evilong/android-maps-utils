@@ -37,7 +37,7 @@ It is also recomended to utilize the following tools for project managment:
 ##Starting up and running the project on Android Studio
 
  - Download the latest [Android Studio](http://developer.android.com/sdk/index.html) version
- - Clone the [source](https://github.com/googlemaps/android-maps-utils) with git:
+ - Clone the source with git:
 
 > $ git clone https://github.com/googlemaps/android-maps-utils.git
 
