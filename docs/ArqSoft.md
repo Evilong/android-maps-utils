@@ -61,3 +61,4 @@ The following is order by importance to the project.
 ####Scenarios
 The use cases for this project are few, not because it's a piece of software with little to none features but because it's and extremely focused project that is aimed for Android Developer that want to improve their applications.
 Becase of this, in the following diagram only represent the view of a developer !!!
+![alt text] (./images/UseCaseDiagram.png "Use case diagram")
