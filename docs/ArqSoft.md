@@ -34,6 +34,11 @@ It is also recomended to utilize the following tools for project managment:
 This library has to be able to offer the full potential of Google Maps and also deliver the liberty to the user to be able to create new functionalities and modify others.
 
 ##Non-Functional Requirements
+The following is order by importance to the project.
+ - Compatibility - Needs to be able to work with a bunch of diferent versions of Android.
+ - Scalability - Needs to be able to add features as many as the user wants while maintaining the performance.
+ - Performance - Need to ensure fast responses to the apps utilizing it, so the app can maintain it's performance.
+ - Usability - Needs to remain easy to understand and implement.
 
 ##Starting up and running the project on Android Studio
 
