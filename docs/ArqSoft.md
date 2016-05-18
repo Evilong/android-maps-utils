@@ -20,8 +20,8 @@ This library is a open-source project, distributed with [Apache 2.0 license](htt
 
 ##System Requirements
 This library is a specialized tool for Android development and as such it requires:
- 1. [JDK](http://www.oracle.com/technetwork/java/) TODO: Add description
- 2. [Android SDK](http://developer.android.com/sdk/) TODO: Add description
+ 1. [JDK](http://www.oracle.com/technetwork/java/) is a set of development tools that allows the creation of Java applications.
+ 2. [Android SDK](http://developer.android.com/sdk/) is a  set of development tools that allows the creation of Android applications.
  3. [Google Play Services](https://developers.google.com/android/guides/overview) is a API for the deverse Google-powered features such as Google Maps and Google+.
 
 It is also recomended to utilize the following tools for project managment:
