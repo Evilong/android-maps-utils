@@ -31,6 +31,7 @@ It is also recomended to utilize the following tools for project managment:
 3. [Eclipse](https://eclipse.org/) + [ADT](http://developer.android.com/tools/sdk/eclipse-adt.html) , Eclipse is a powerfull and well known Java IDE and ADT is a pluggin to extend it's abilites to work with Android Projects
 
 ##Functional Requirements
+This library has to be able to offer the full potential of Google Maps and also deliver the liberty to the user to be able to create new functionalities and modify others.
 
 ##Non-Functional Requirements
 
