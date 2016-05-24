@@ -1,4 +1,4 @@
-#Google Maps Android API utility library
+#![alt text] (./images/googlemaps.png "Google Maps")Google Maps Android API utility library
 
 ##Table of Contents
  1. [Overview](#overview)
