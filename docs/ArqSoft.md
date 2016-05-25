@@ -57,8 +57,11 @@ The following is order by importance to the project.
 ####Logical view
 ![alt text] (./images/LogicalView.png "Logical View Diagram")
 ####Process view
+The process view deals with the dynamic aspects of the system, explains the system processes and how they communicate, and focuses on the runtime behavior of the system. The process view addresses concurrency, distribution, integrators, performance, and scalability, etc.
 ####Physical view
+ The physical view depicts the system from a system engineer's point of view. It is concerned with the topology of software components on the physical layer, as well as the physical connections between these components. This view is also known as the deployment view.
 ####Development view
+The development view illustrates a system from a programmer's perspective and is concerned with software management. This view is also known as the implementation view.
 ####Scenarios
 The use cases for this project are few, not because it's a piece of software with little to none features but because it's and extremely focused project that is aimed for Android Developer that want to improve their applications.
 Becase of this, in the following diagram only represent the view of a developer !!!
