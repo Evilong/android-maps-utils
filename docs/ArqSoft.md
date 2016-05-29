@@ -69,5 +69,5 @@ The physical view depicts the system from a system engineer's point of view. It 
 The development view illustrates a system from a programmer's perspective and is concerned with software management. This view is also known as the implementation view.
 ####Scenarios
 The use cases for this project are few, not because it's a piece of software with little to none features but because it's and extremely focused project that is aimed for Android Developer that want to improve their applications.
-Becase of this, in the following diagram only represent the view of a developer !!!
+Because of this, in the following diagram only represent the view of a developer !!!
 ![alt text] (./images/UseCaseDiagram.png "Scenarios Diagram")
