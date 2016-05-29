@@ -56,6 +56,8 @@ The following is order by importance to the project.
 
 ####Logical view
 ![alt text] (./images/LogicalView.png "Logical View Diagram")
+
+The logical view is concerned with the functionality that the system provides to end-users. 
 ####Process view
 ![alt text] (./images/processview.png "Process View Diagram")
 The process view deals with the dynamic aspects of the system, explains the system processes and how they communicate, and focuses on the runtime behavior of the system. The process view addresses concurrency, distribution, integrators, performance, and scalability, etc.
@@ -68,6 +70,8 @@ The physical view depicts the system from a system engineer's point of view. It 
 
 The development view illustrates a system from a programmer's perspective and is concerned with software management. This view is also known as the implementation view.
 ####Scenarios
+The description of an architecture is illustrated using a small set of use cases, or scenarios which become a fifth view. The scenarios describe sequences of interactions between objects, and between processes. They are used to identify architectural elements and to illustrate and validate the architecture design. They also serve as a starting point for tests of an architecture prototype.
+
 The use cases for this project are few, not because it's a piece of software with little to none features but because it's and extremely focused project that is aimed for Android Developer that want to improve their applications.
 Because of this, in the following diagram only represent the view of a developer !!!
 ![alt text] (./images/UseCaseDiagram.png "Scenarios Diagram")
