@@ -55,10 +55,11 @@ The following is order by importance to the project.
 ##4+1 View
 
 ####Logical view
-The logical view describes how the system is structured in terms of units of implementation. The system is decomposed into a set of key abstractions in the form of objects or object classes. A class diagram shows a set of classes and their logical relationships. The relationship between elements shows dependecies, interface realizations, part-whole relationships, and so forth.
+The logical view is concerned with the functionality that the system provides to end-users. 
+This view describes how the system is structured in terms of units of implementation. The system is decomposed into a set of key abstractions in the form of objects or object classes. A class diagram shows a set of classes and their logical relationships. The relationship between elements shows dependecies, interface realizations, part-whole relationships, and so forth.
+
 ![alt text] (./images/LogicalView.png "Logical View Diagram")
 
-The logical view is concerned with the functionality that the system provides to end-users. 
 ####Process view
 ![alt text] (./images/processview.png "Process View Diagram")
 The process view deals with the dynamic aspects of the system, explains the system processes and how they communicate, and focuses on the runtime behavior of the system. The process view addresses concurrency, distribution, integrators, performance, and scalability, etc.
