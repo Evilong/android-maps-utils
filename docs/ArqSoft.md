@@ -65,6 +65,7 @@ The process view deals with the dynamic aspects of the system, explains the syst
 The physical view depicts the system from a system engineer's point of view. It is concerned with the topology of software components on the physical layer, as well as the physical connections between these components. This view is also known as the deployment view.
 ####Development view
 ![alt text] (./images/developmentview.png "Development View Diagram")
+
 The development view illustrates a system from a programmer's perspective and is concerned with software management. This view is also known as the implementation view.
 ####Scenarios
 The use cases for this project are few, not because it's a piece of software with little to none features but because it's and extremely focused project that is aimed for Android Developer that want to improve their applications.
