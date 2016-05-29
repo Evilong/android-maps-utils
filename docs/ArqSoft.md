@@ -60,6 +60,18 @@ This view describes how the system is structured in terms of units of implementa
 
 ![alt text] (./images/LogicalView.png "Logical View Diagram")
 
+Brief descrition of the packages and their functionalities:
+ - Marker Manager and Clustering — handles the display of a large number of points
+ - Heatmaps — display a large number of points as a heat map
+ - IconGenerator — display text on your Markers
+ - PolyUtil — compact encoding for paths, interoperability with Maps API web services
+ - SphericalUtil, Projection, Geometry — for example: computeDistance, computeHeading, computeArea
+ - KML — displays KML data
+ - GeoJSON — displays and styles GeoJSON data
+ - MathUtil - mathematical calculations
+ - QuadTree - implementation of tree
+ - UI - user interface for Google Maps
+
 ####Process view
 ![alt text] (./images/processview.png "Process View Diagram")
 The process view deals with the dynamic aspects of the system, explains the system processes and how they communicate, and focuses on the runtime behavior of the system. The process view addresses concurrency, distribution, integrators, performance, and scalability, etc.
