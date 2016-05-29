@@ -86,7 +86,7 @@ It is concerned with the topology of software components on the physical layer, 
 
 The library is mainly acessed by the Google Maps API and as such its physical resources are identical.
 ####Development view
-This view is also known as the implementation view, its considered as the view of an programmer and/or software manager. As we see in the diagram below, our library run along with the google maps, which runs inside the application. Only google maps comunicates with the google maps util library. The library server more like an addon than anything else.
+This view is also known as the implementation view, its considered as the view of an programmer and/or software manager. As we see in the diagram below, our library run along with the google maps, which runs inside the application. Only google maps comunicates with the google maps util library. The library serves more like an addon than anything else.
 ![alt text] (./images/developmentview.png "Development View Diagram")
 ####Scenarios
 The description of an architecture is illustrated using a small set of use cases, or scenarios which become a fifth view. The scenarios describe sequences of interactions between objects, and between processes. They are used to identify architectural elements and to illustrate and validate the architecture design. They also serve as a starting point for tests of an architecture prototype.
