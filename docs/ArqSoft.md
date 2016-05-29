@@ -57,7 +57,10 @@ The following is order by importance to the project.
 ####Logical view
 ![alt text] (./images/LogicalView.png "Logical View Diagram")
 ####Process view
-![alt text] (./images/process.view.png "Process View Diagram")
+![alt text] (./images/processview.png "Process View Diagram")
+
+
+
 The process view deals with the dynamic aspects of the system, explains the system processes and how they communicate, and focuses on the runtime behavior of the system. The process view addresses concurrency, distribution, integrators, performance, and scalability, etc.
 ####Physical view
  The physical view depicts the system from a system engineer's point of view. It is concerned with the topology of software components on the physical layer, as well as the physical connections between these components. This view is also known as the deployment view.
