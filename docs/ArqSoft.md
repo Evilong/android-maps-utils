@@ -12,6 +12,7 @@
 	3. [Physical View](#physical-view)
 	4. [Development View](#development-view)
 	5. [Scenarios](#scenarios)
+ 7. [Contributors](#contributors)
 
 ##Overview
 
@@ -93,3 +94,9 @@ The description of an architecture is illustrated using a small set of use cases
 The use cases for this project are few, not because it's a piece of software with little to none features but because it's and extremely focused project that is aimed for Android Developer that want to improve their applications.
 Because of this, in the following diagram only represent the view of a developer !!!
 ![alt text] (./images/UseCaseDiagram.png "Scenarios Diagram")
+
+##Contributors
+ - [Duarte Figueiredo](https://github.com/Super-Muffin) (22%)
+ - [João Estrela](https://github.com/Evilong) (50%)
+ - [Mariana Lopes](https://github.com/MarianaMourao) (6%)
+ - [Tânia Carvalho](https://github.com/Primeter) (22%)
