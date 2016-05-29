@@ -76,10 +76,14 @@ Brief descrition of the packages and their functionalities:
 The process view deals with the dynamic aspects of the system, explains the system processes and how they communicate, and focuses on the runtime behavior of the system. Usually its considered as the view of an integrator.
 
 ![alt text] (./images/processview.png "Process View Diagram")
+
+The process of this project is short because it is a library and doesn't have processes but it is part of a bigger picture in Google Maps API.
 ####Physical view
 It is concerned with the topology of software components on the physical layer, as well as the physical connections between these components. This view is also known as the deployment view. Usually its considered as the view of an system enginner.
 
 ![alt text] (./images/physicalview.png "Physical View Diagram")
+
+The library is mainly acessed by the Google Maps API and as such its physical resources are identical.
 ####Development view
 This view is also known as the implementation view, its considered as the view of an programmer and/or software manager
 ![alt text] (./images/developmentview.png "Development View Diagram")
